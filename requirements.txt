@@ -1,0 +1,12 @@
+fastapi==0.114.2
+uvicorn==0.30.6
+pytesseract==0.3.10
+pdfplumber==0.11.4
+Pillow==10.0.0
+langchain-community==0.3.0
+langchain-huggingface==0.1.0
+langchain-mongodb==0.2.0
+pymongo==4.9.1
+pydantic==2.8.2
+google-generativeai==0.8.3
+python-dotenv==1.0.1
